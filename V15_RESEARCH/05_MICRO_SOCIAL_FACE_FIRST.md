@@ -658,9 +658,12 @@ CAMERA AWARENESS DISTRIBUTION:
 ```
 WARNINGS:
 ⚠ Avoid interactions that read as coercive (unwanted touch, power-imbalanced)
+  → Examples of COERCIVE: subject visibly flinching away, holding breath, frozen posture, hand on face with subject eyes averted, touch to intimate area without subject initiated contact
+  → Examples of ACCEPTABLE: subject initiates or readily accepts touch, brief practical adjustment (towel, hair), playful splash with laughter response, mutual consent visible
+
 ⚠ Maintain age-appropriate touch context (sibling, friend, partner as appropriate)
 ⚠ Splash/wet interactions should remain playful not aggressive
-⚠ Sunscreen application should remain practical, not linger
+⚠ Sunscreen application should remain practical, not linger (brief strokes, functional not sensual)
 ⚠ Clothing adjustments should be functional, brief, and context-appropriate
 ⚠ Camera should never capture subjects in genuinely distressed states
 ⚠ No interaction should imply non-consent or discomfort
@@ -1225,6 +1228,11 @@ WARNINGS:
 ⚠ Asymmetric eye visibility should feel organic (hair, angle) not contrived (hand deliberately covering one eye)
 ⚠ F2.8+ shallow depth of field is a tool, not a default — some environmental context should remain readable
 ⚠ Face brighter than +15% over environment approaches studio-look — maintain natural lighting feel
+
+CONTENT BOUNDARIES:
+→ Do not use face-framing crops on subjects in states of distress, illness, or emotional crisis
+→ TIGHT_FACE should preserve facial anatomy integrity — extreme distortion reads as AI artifact
+→ Face retention rules (5 rules) should not override subject comfort signals in the frame
 ```
 
 ---

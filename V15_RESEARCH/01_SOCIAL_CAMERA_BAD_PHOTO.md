@@ -750,30 +750,38 @@ The social camera system models the photographer not as a neutral capture device
 
 ### Operator Priority Matrix
 
-| Operator Type | Authenticity | Technical Quality | Relationship Warmth | Failures Frequency |
-|--------------|--------------|-------------------|---------------------|--------------------|
-| OP_01 (Intimate Partner) | HIGH | MEDIUM | HIGH | MEDIUM |
-| OP_02 (Female Friend Amateur) | MEDIUM | HIGH | MEDIUM | LOW |
-| OP_03 (Boyfriend Clueless) | MEDIUM | LOW | LOW | HIGH |
-| OP_04 (Tourist Stranger) | LOW | LOW | LOW | HIGH |
-| OP_05 (Street Documentary) | HIGH | MEDIUM | NONE | MEDIUM |
-| OP_06 (Selfie Specialist) | LOW | MEDIUM | NONE | HIGH |
-| OP_07 (Creative Collaborator) | HIGH | HIGH | HIGH | LOW |
-| OP_08 (Undercover Shot) | HIGHEST | LOW | NONE | HIGH |
-| OP_09 (Elder Relative) | MEDIUM | LOW | HIGHEST | HIGH |
-| OP_10 (Professional) | LOW | HIGHEST | LOW | LOW |
-| OP_11 (Drunk Night) | HIGHEST | LOWEST | HIGH | HIGHEST |
-| OP_12 (Long Distance) | HIGH | MEDIUM | HIGHEST | MEDIUM |
-| OP_13 (MTR Platform Commuter) | HIGH | LOW | NONE | HIGH |
-| OP_14 (Late-Night Taxi) | HIGH | LOW | MEDIUM | HIGH |
-| OP_15 (Rooftop Friend) | HIGH | MEDIUM | HIGH | MEDIUM |
-| OP_16 (Convenience Store Walk-Back) | HIGH | LOW | HIGH | HIGH |
-| OP_17 (Ferry Deck Friend-Angle) | HIGH | MEDIUM | HIGH | MEDIUM |
-| OP_18 (Indoor Playground Crouch) | MEDIUM | LOW | HIGHEST | HIGH |
-| OP_19 (Wedding Guest Phone) | MEDIUM | LOW | MEDIUM | HIGH |
-| OP_20 (Airport Departure Gate) | MEDIUM | LOW | HIGH | MEDIUM |
-| OP_21 (Beach Friend-Behind-Walking) | HIGH | MEDIUM | HIGH | LOW |
-| OP_22 (Escalator Friend-Above) | HIGH | MEDIUM | MEDIUM | MEDIUM |
+**Operational Definitions:**
+- **Authenticity** = Degree of unposed/genuine capture vs. directed/posed (HIGHEST = fully candid, LOW = fully directed)
+- **Technical Quality** = Camera skill level: focus accuracy, exposure control, composition intentionality (HIGHEST = professional, LOWEST = random/failed)
+- **Relationship Warmth** = Emotional intimacy between photographer and subject (HIGHEST = decades-long bond, NONE = complete stranger, LOW = casual acquaintance)
+- **Failures Frequency** = Likelihood of interesting "bad photo" artifacts (HIGHEST = almost guaranteed chaotic failures, LOW = clean and predictable)
+
+|| Operator Type | Authenticity | Technical Quality | Relationship Warmth | Failures Frequency |
+||--------------|--------------|-------------------|---------------------|--------------------|
+|| OP_01 (Intimate Partner) | HIGH | MEDIUM | HIGH | MEDIUM |
+|| OP_02 (Female Friend Amateur) | MEDIUM | HIGH | MEDIUM | LOW |
+|| OP_03 (Boyfriend Clueless) | MEDIUM | LOW | LOW | HIGH |
+|| OP_04 (Tourist Stranger) | LOW | LOW | LOW | HIGH |
+|| OP_05 (Street Documentary) | HIGH | MEDIUM | NONE | MEDIUM |
+|| OP_06 (Selfie Specialist) | LOW | MEDIUM | NONE | HIGH |
+|| OP_07 (Creative Collaborator) | HIGH | HIGH | HIGH | LOW |
+|| OP_08 (Undercover Shot) | HIGHEST | LOW | NONE | HIGH |
+|| OP_09 (Elder Relative) | MEDIUM | LOW | HIGHEST | HIGH |
+|| OP_10 (Professional) | LOW | HIGHEST | LOW | LOW |
+|| OP_11 (Drunk Night) | HIGHEST | LOWEST | HIGH | HIGHEST |
+|| OP_12 (Long Distance) | HIGH | MEDIUM | HIGHEST | MEDIUM |
+|| OP_13 (MTR Platform Commuter) | HIGH | LOW | NONE | HIGH |
+|| OP_14 (Late-Night Taxi) | HIGH | LOW | MEDIUM | HIGH |
+|| OP_15 (Rooftop Friend) | HIGH | MEDIUM | HIGH | MEDIUM |
+|| OP_16 (Convenience Store Walk-Back) | HIGH | LOW | HIGH | HIGH |
+|| OP_17 (Ferry Deck Friend-Angle) | HIGH | MEDIUM | HIGH | MEDIUM |
+|| OP_18 (Indoor Playground Crouch) | MEDIUM | LOW | HIGHEST | HIGH |
+|| OP_19 (Wedding Guest Phone) | MEDIUM | LOW | MEDIUM | HIGH |
+|| OP_20 (Airport Departure Gate) | MEDIUM | LOW | HIGH | MEDIUM |
+|| OP_21 (Beach Friend-Behind-Walking) | HIGH | MEDIUM | HIGH | LOW |
+|| OP_22 (Escalator Friend-Above) | HIGH | MEDIUM | MEDIUM | MEDIUM |
+
+**Usage:** Use this matrix to select operators based on desired output profile. For maximum authenticity + interesting failures, choose OP_08 or OP_11. For clean, directed imagery, choose OP_07 or OP_10.
 
 ---
 

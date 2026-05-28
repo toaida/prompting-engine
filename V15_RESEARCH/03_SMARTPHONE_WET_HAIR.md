@@ -814,4 +814,22 @@ SCENE_05: Night Market Post-Swim Walk
 
 ---
 
+### TOKEN REFERENCE (Key New Additions in AREA 06)
+
+The following tokens appear in examples but are derived from documented behaviors above:
+
+|| Token | Source Section | Description |
+||-------|----------------|-------------|
+|| [CHLORINE_SPF] | CHLORINE_SUNSCREEN_STICKY_RESIDUE | Combined sunscreen + chlorine tacky residue |
+|| [CHLORINE_WRINKLE] | CHLORINE_INTERACTION | Pruned/finger-wrinkled skin from pool water |
+|| [CHLORINE_ODOR] | CHLORINE_HAND_SMELL | Pool chemical smell on skin |
+|| [STICKY_RESIDUE] | CHLORINE_SUNSCREEN_STICKY_RESIDUE | Tacky skin texture from chlorine+sunscreen |
+|| [TACKY_TEXTURE] | CHLORINE_SUNSCREEN_STICKY_RESIDUE | Audible friction texture |
+|| [MILKY_DRIP] | SPF_MELT | White sunscreen breaking down in water |
+
+All other tokens (87 → 162) are documented in their respective behavioral sections above.
+
+---
+
 *End of Research Document*
+*Status: COMPLETE — token consistency resolved*

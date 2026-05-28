@@ -813,7 +813,43 @@ EXPRESSION TIMING:
 
 ---
 
+### APPLICATION EXAMPLES
+
+**Example 1: The Unfinished Laugh**
+```
+[subject]_mid-conversation_with_friend_at_beach_cafe
+[smile_onset_mouth_slightly_open_orbicularis_incomplete_activation]
+[LAUGH_TYPE_2]_held_back_internally_eye_engagement_present_mouth_slight_upturn
+[CONTINUITY: same_hawaiian_shirt_from_A01_wear_tier_2_faded_sunset_logo]
+[expression_timing_LEVEL_2_onset_under_200ms_visible]
+[instability: social_inhibition_expression_asymmetry]
+```
+
+**Example 2: Post-Swim Fatigue with Residual Joy**
+```
+[subject]_post_swim_at_pool_deck_wearing_white_towel_wrap
+[CHLORINE_ODOR]_slight_nose_scrunch_skin_matte_with_oil_breakthrough
+[SLEEPY_HEAVY_LID]_dilated_pupil_capillary_flush_forehead_released
+[CONTINUITY: same_swimsuit_from_A01_pool_scene_wear_tier_1]
+[expression_timing_FATIGUE-SLEEP_Drowsiness_level_3_emerging]
+[instability: sleepy_joy_residual_positive_contaminated_neutral]
+[HAIR: wet_heavy_gravity_pull_wrist_towel_preventing_drip]
+```
+
+**Example 3: The Interrupted Thought (Cognitive Load)**
+```
+[subject]_standing_at_outdoor_market_stall_deciding_what_to_buy
+[expression_timing_COGNITIVE_LOAD_Thinking_face_LEVEL_5_post_peak]
+[right_eyebrow_elevated_asymmetric_browfurrow_slight]
+[micro-expression_leak_LEFT_side_controlled_RIGHT_side_leaked]
+[CONTINUITY: same_ripped_denim_jacket_from_session_1_wear_tier_3]
+[instability: expression_contaminated_neutral_residual_thought]
+```
+
+---
+
 *Document: 02_CONTINUITY_EMOTIONAL_INSTABILITY.md — V15 Research*
 *Systems: AREA 03 (Continuity Persistence) + AREA 04 (Emotional Instability)*
-*Status: COMPLETE*
+*Status: COMPLETE — with application examples*
+*Next: Ready for engine integration*
 
