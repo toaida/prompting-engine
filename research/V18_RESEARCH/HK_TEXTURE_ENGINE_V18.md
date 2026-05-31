@@ -1382,8 +1382,8 @@ HK's dense urban environment pushed utilities overhead when underground burial w
 |-----------------|----------------|------------------------|------------------|---------------|
 | Mong Kok Day | Location 07 | Token 01, Token 09 | Token 11 | Token 06 |
 | Mong Kok Night | Location 07 | Token 01, Token 08 | Token 09 | Token 14 |
-| Sham Shui Po Day | Location 14 (vertical) | Token 02 | Token 11, Token 20 | Token 06 |
-| Sham Shui Po Night | Location 14 | Token 02, Token 08 | Token 07, Token 20 | Token 14 |
+| Sham Shui Po Day | Location 02 (Tai Kwun/tenement reference) | Token 02 | Token 11, Token 20 | Token 06 |
+| Sham Shui Po Night | Location 02 | Token 02, Token 08 | Token 07, Token 20 | Token 14 |
 | Wet Market Morning | Location 04 | Token 03 | Token 06 | Token 06 |
 | Public Housing | Location 15 | Token 05, Token 10 | Token 16 | Token 06 |
 | Cha Chaan Teng | Location 08 | Token 04 | Token 15 | Token 06 |

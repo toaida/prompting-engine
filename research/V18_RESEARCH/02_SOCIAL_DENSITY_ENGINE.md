@@ -729,9 +729,10 @@ warm evening light, shot on Sony 35mm f/1.4..."
 
 **Anti-AI Benefit**: AI tends to either over-freeze (static statue) or over-blur (unreadable). The specific calibrated motion blur that shows action but maintains legibility is learned from real photography.
 
-**Example Prompt Fragment**```
-"...street photography style, woman walking forward with pace blur 
-on legs, shopping bag swinging, hair catching wind, candid shot, 
+**Example Prompt Fragment**
+```
+"...street photography style, woman walking forward with pace blur
+on legs, shopping bag swinging, hair catching wind, candid shot,
 available light, shot on Leica Monochrom..."
 ```
 

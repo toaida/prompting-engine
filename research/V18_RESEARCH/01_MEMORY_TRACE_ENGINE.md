@@ -643,8 +643,8 @@ thumb-zone (MEM-09), receipt from earlier dinner still in bag with food stains
 footprint trails (MEM-01 + MEM-06), reusable shopping bag soaked through at bottom 
 corners (MEM-02), keys being retrieved from bag showing house-key tooth wear and 
 recent rain droplets (MEM-13), door handle still cool from outside air (MEM-08), 
-small puddle forming where bag dripped on entryway floor (MEM-07), wet hair 
-plastered at temples (MEM-22 cross-reference)"
+small puddle forming where bag dripped on entryway floor (MEM-07), wet hair
+plastered at temples (humidity trace, cross-reference MEM-01 moisture carryover)"
 ```
 
 ---
