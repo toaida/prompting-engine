@@ -49,9 +49,9 @@ The goal is not to capture "beautiful faces" but to engineer **face-attention ev
     ▼
 ┌─────────────────────────────────────┐
 │  FACE DETECTION LAYER               │
-│  -瞳位置检测 (pupil localization)   │
-│  -微表情分割 (micro-expression)     │
-│  -肌理状态映射 (skin state mapping) │
+│  - pupil localization               │
+│  - micro-expression detection       │
+│  - skin state mapping               │
 └─────────────────┬───────────────────┘
                   │
                   ▼
@@ -91,7 +91,7 @@ The goal is not to capture "beautiful faces" but to engineer **face-attention ev
 
 A face becomes a memory anchor through **three concurrent triggers**:
 
-1. **Gaze Cascade**: When eyes are not staring but not avoiding either — a "soft focus" gaze — the viewer projects their own emotional state onto the face. This is called the **Birmingham Effect** in face-perception literature (not formally named, but observed: soft-gaze faces are rated as more memorable than direct-stare or averted-gaze controls).
+1. **Gaze Cascade**: When eyes are not staring but not avoiding either — a "soft focus" gaze — the viewer projects their own emotional state onto the face. This phenomenon (soft-gaze faces rated as more memorable than direct-stare or averted-gaze) is observed in face-perception research but lacks a standard academic name — referred to here as the Gaze Cascade Effect.
 
 2. **Micro-Expression Leakage**: When an emotion is being suppressed (e.g., a suppressed smile), facial muscles fire partially but incompletely. The viewer perceives this as "something behind the expression" — creating narrative curiosity.
 
@@ -270,7 +270,7 @@ FACE_TOKEN::playful_challenge
   capture_signal: asymmetric_brow_plus_crooked_mouth
   narrative_tags: [teasing, inviting, confident, knowing]
 
-FACE_TOKEN::caught_laughing
+FACE_TOKEN::caught_laugh
   aliases: [mid_laugh, frozen_joy, interrupted_giggle, laugh_break]
   intensity_range: [0.6 - 0.95]
   err_baseline: 0.94
