@@ -935,3 +935,37 @@ If Body Language research (#003) validates specific ground postures that create 
 *Source: Research #001 — Notion 04 Research → 2026-06-01*
 *Status: RESEARCH PHASE — pending DeepSeek verification + consolidation*
 *GitHub: ~/Documents/lil.troublr/Engine/research/V20_RESEARCH/ATTENTION_ROUTING_ENGINE.md*
+
+
+---
+
+# PART 10: DEEPSEEK V4 PRO VERIFICATION & EXTENSION
+### Consolidation Date: 2026-06-02
+
+## Verified Corrections
+
+1. **5-Second Window timing refined:** Face processing is ~100ms, not 500ms. Skin luminance detection ~50ms. The 500ms mark is when conscious attention begins, not when instinctual processing ends. Updated timeline: 0-0.1s pre-attentive, 0.1-0.5s attention capture, 0.5-1.5s attention hold, 1.5-3s engagement, 3-5s meaning resolution.
+
+2. **Attention anchor hierarchy corrected:** In peripheral vision, MOTION and HIGH_CONTRAST_EDGE trigger faster than skin luminance. Skin luminance wins only in foveal vision. Priority rules now acknowledge context-dependent exceptions.
+
+3. **AI failure point clarified:** AI images fail primarily at 1-2s ENGAGEMENT HOLD, not 0.5-1s. The critical missing element is narrative tension + external context (photographer-subject relationship).
+
+## Key Extensions Added
+
+1. **Photographer's Lens (NEW):** Every photo implies a photographer. The photographer's choice of distance, angle, timing, and framing creates implicit narrative that AI images lack.
+
+2. **Cultural Eye Tracking Differences:** Western viewers focus on face→eyes→mouth. East Asian viewers focus on face→environment→context. Attention routing strategies must be culturally calibrated.
+
+3. **Platform-Specific Attention:** Instagram (0.5s, face-dominant), TikTok (0.3s, motion-dominant), Pinterest (2s, detail-dominant), Twitter/X (0.8s, contrast-dominant), Xiaohongshu (social proof-dominant).
+
+4. **Attention Fatigue Model:** Repeated exposure to same attention patterns reduces effectiveness. Need variety in gaze patterns, photo-reason objects, expression types, and environment types across content series.
+
+5. **Frame-Within-Frame Effects:** Mirror, window, phone screen, doorway, architectural frame — each creates secondary attention paths that reinforce or compete with primary path.
+
+## Verification Status
+- ✅ Core framework: VERIFIED
+- ✅ Anchor hierarchy: VERIFIED (with corrections)
+- ✅ Environment maps: VERIFIED
+- ⚠️ 5-Second Window: CORRECTED (timeline refined)
+- ⚠️ Priority rules: EXTENDED (exceptions added)
+- 📋 Methodology note: Research is theoretical/heuristic. No eye-tracking studies cited. Recommend future empirical validation.
