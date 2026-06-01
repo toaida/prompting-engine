@@ -52,7 +52,15 @@ modules/
 ├── V14/    (11 files) — Memory realism, camera awareness, compound layers
 ├── V15/    (10 files) — Bad photo realism, social camera, expression timing
 ├── V16/    (6 files)  — Anti-formula, life entropy, beauty degradation
-└── V17/    (7 files)  — Photobook realism, garment physics, eye flow
+├── V17/    (7 files)  — Photobook realism, garment physics, eye flow
+└── V20/    (7 files)  — Attention routing, camera relationship, body/object/night/HK locality
+
+proposals/
+└── V20_ENGINE_INTEGRATION_PROPOSAL.md
+
+gpt-release/
+├── LIL_TROUBLR_GPT_MASTER.md
+└── LIL_TROUBLR_V20_MASTER_DRAFT.md
 
 references/
 ├── SKILL.md
@@ -82,8 +90,9 @@ core/
 | V15 | Bad photo realism, continuity persistence | 10 |
 | V16 | Anti-formula, life entropy | 6 |
 | V17 | Photobook realism, garment physics | 7 |
+| V20 | Runtime attention/camera/body/object/night/HK locality integration | 7 modules + master draft |
 
-**Total:** 34 modules + references + consolidated GPT master
+**Total:** 41 modules + proposals + references + consolidated GPT master
 
 ---
 
