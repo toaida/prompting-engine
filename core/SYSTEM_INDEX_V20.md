@@ -14,6 +14,8 @@
 | Object Logic V2 | `modules/V20/ENGINE_V20_OBJECT_LOGIC_V2_SYSTEM.md` | Turns objects into lived-in evidence instead of props. |
 | Night Realism | `modules/V20/ENGINE_V20_NIGHT_REALISM_SYSTEM.md` | Makes night lighting source-based, imperfect, and physically consistent. |
 | HK Local Girl | `modules/V20/ENGINE_V20_HONG_KONG_LOCAL_GIRL_SYSTEM.md` | Localizes style, behavior, objects, and environments to Hong Kong. |
+| Focus Hierarchy | `modules/V20/ENGINE_V20_FOCUS_HIERARCHY_SYSTEM.md` | Reduces HDR/global sharpness and controls background competition. |
+| Physical Interaction | `modules/V20/ENGINE_V20_PHYSICAL_INTERACTION_SYSTEM.md` | Prevents hand/object/barrier/furniture interaction failures. |
 | Self Check | `modules/V20/ENGINE_V20_SELF_CHECK.md` | Post-merge self-check and GPT review checklist. |
 
 ---
@@ -42,12 +44,14 @@ Photo existence reason
 - If objects look decorative → activate Object Logic V2.
 - If night looks flat → activate Night Realism.
 - If scene reads generic Asian city → activate HK Local Girl.
+- If background competes / image feels HDR → activate Focus Hierarchy.
+- If hand/object/barrier contact matters → activate Physical Interaction.
 
 ---
 
 ## Integration Status
 
-- Research #001-006 complete.
+- Research #001-008 complete (#007-008 are production-guided drafts pending validation).
 - DeepSeek V4 Pro verified and extended all research.
 - Lucy consolidated into runtime modules.
 - Normal engine update: auto-merged under AContent V20 workflow.

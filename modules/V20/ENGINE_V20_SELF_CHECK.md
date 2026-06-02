@@ -51,3 +51,18 @@ GPT should review for:
 - conflicts with Character Bible
 - duplicate rules that should be consolidated
 - missing examples or runtime defaults
+
+
+---
+
+## V20.1 Production-Guided Draft Check
+
+### R007 Focus Hierarchy
+- Triggered by actual production pattern: HDR/global sharpness/background competition.
+- Runtime usability: PASS — uses focus budget and selective detail rules.
+- Canon status: HOLD until production validation.
+
+### R008 Physical Interaction
+- Triggered by actual production failure: hand passing through refrigerator glass.
+- Runtime usability: PASS — uses actor/target/contact/barrier/occlusion/evidence contract.
+- Canon status: HOLD until production validation.
